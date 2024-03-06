@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-<br>🌱 I’m currently learning backend development and machine learning<br>💬 Ask me about PHP , FasAPI  , Machine learning models<br>⚡ Fun fact Did you know that the name “Python” was inspired by the British comedy group Monty Python? Guido van Rossum, the creator of Python, was a fan of the group, and he named the language after them as a tribute. In fact, the official Python documentation often uses quotes and references to Monty Python sketches and movies.
+<br>🌱 I’m currently learning backend development and machine learning<br>💬 Ask me about web development,LLM's, Current trends<br>⚡ Fun fact Did you know that the name “Python” was inspired by the British comedy group Monty Python? Guido van Rossum, the creator of Python, was a fan of the group, and he named the language after them as a tribute. In fact, the official Python documentation often uses quotes and references to Monty Python sketches and movies.
 
 
 ## 🌐 Socials:
